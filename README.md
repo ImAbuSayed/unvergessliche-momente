@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unvergessliche-momente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unvergessliche Momente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unvergessliche-momente/) |
+| **Get License** | [Obtain a Music License for Unvergessliche Momente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unvergessliche-momente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline brennt, der Bass schlägt tief in meiner Brust
+> Ein Blick von dir reicht, wir teilen die gleiche Lust
+> Steig in den Wagen, lass uns durch die Nacht entfliehen
+> Unvergessliche Momente, wenn wir durch die Straßen ziehen
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
